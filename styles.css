@@ -50,3 +50,18 @@ html, body {
 .parallax.one {
 	background-image: url("img/kochanowski1.webp")
 }
+.parallax.two {
+	background-image: url("img/kochanowski2.png")
+}
+.parallax.three {
+	background-image: url("img/kochanowski3.png")
+}
+.parallax.four {
+	background-image: url("img/kochanowski4.png")
+}
+.parallax.five {
+	background-image: url("img/kochanowski5.png")
+}
+.parallax.six {
+	background-image: url("img/kochanowski6.png")
+}
