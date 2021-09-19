@@ -32,6 +32,12 @@ html, body {
 	font-size: 40px;
 }
 
+#header {
+	text-align: center;
+	font-family: 'Carattere', cursive;
+	font-size: 30px;
+}
+
 .content {
 	font-family: 'Roboto Slab', serif;
 	background-color: rgb(50, 50, 50);
