@@ -47,6 +47,12 @@ html, body {
     background-size: cover;
 }
 
+footer {
+	padding: 20px;
+	text-align: center;
+	background-color: rgb(50, 50, 50);
+}
+
 .parallax.one {
 	background-image: url("img/kochanowski1.webp")
 }
